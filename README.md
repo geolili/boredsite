@@ -1,6 +1,7 @@
 <h1>Boredsite</h1>
+<h2><i>Random activities for stopping boredom</i></h2>
 
-<h3>Junior Full-Stack Developer</h3>
+<h3> Alice | Junior Full-Stack Developer</h3>
 
 "Boredsite" is a page with random activities generated clicking on a button by the user.
 
