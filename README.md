@@ -1,6 +1,6 @@
-# boredsite
+<h1>Boredsite</h1>
 
-From a junior programmer.
+<h3>Junior Full-Stack Developer</h3>
 
 "Boredsite" is a page with random activities generated clicking on a button by the user.
 
